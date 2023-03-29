@@ -1,0 +1,13 @@
+2023-03-28 22:43:12.469 [main] INFO com.alura.appium.AluraAppium.Log.Log - Inicio teste: Cadastro usuário
+2023-03-28 22:43:20.499 [main] INFO com.alura.appium.AluraAppium.Log.Log - Driver e tela login instanciado
+2023-03-28 22:43:20.862 [main] INFO com.alura.appium.AluraAppium.Log.Log - Avanço tela de Cadastro
+2023-03-28 22:43:24.365 [main] INFO com.alura.appium.AluraAppium.Log.Log - Verificando se esta na tela de login
+2023-03-28 22:43:24.537 [main] INFO com.alura.appium.AluraAppium.Log.Log - Elemento [[AppiumDriver:  on ANDROID (4a484e18-e9e5-47e7-8504-a8a378d40886)] -> id: br.com.alura.aluraesporte:id/login_botao_logar] encontrado.
+2023-03-28 22:43:24.538 [main] INFO com.alura.appium.AluraAppium.Log.Log - Validação do cadastro efetuada
+2023-03-28 22:43:24.539 [main] INFO com.alura.appium.AluraAppium.Log.Log - Inicio teste: Não cadastrar usuário
+2023-03-28 22:43:24.539 [main] INFO com.alura.appium.AluraAppium.Log.Log - Driver e tela de login incializada
+2023-03-28 22:43:25.124 [main] INFO com.alura.appium.AluraAppium.Log.Log - Avanço tela de Cadastro
+2023-03-28 22:43:29.004 [main] INFO com.alura.appium.AluraAppium.Log.Log - Verificando mensagem de erro
+2023-03-28 22:43:29.537 [main] INFO com.alura.appium.AluraAppium.Log.Log - Elemento [[AppiumDriver:  on ANDROID (4a484e18-e9e5-47e7-8504-a8a378d40886)] -> id: br.com.alura.aluraesporte:id/erro_cadastro] encontrado.
+2023-03-28 22:43:29.561 [main] INFO com.alura.appium.AluraAppium.Log.Log - Validação do cadastro efetuada
+2023-03-28 22:43:29.609 [main] INFO com.alura.appium.AluraAppium.Log.Log - Retorno tela de login
